@@ -1,0 +1,2 @@
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<div class="g-recaptcha" data-sitekey="<?php echo $this->publicKey;?>" style="transform:scale(0.90);transform-origin:0 0"></div>

@@ -1,0 +1,9 @@
+#slnBlacklistTbl_is_temp_label.ui-state-hover .s-ico {
+	display: none !important;
+}
+#jqgh_slnBlacklistTbl_is_temp_label {
+	height: auto;
+}
+#jqgh_slnBlacklistTbl_is_temp_label #slnBlacklistTypeSel {
+	font-size: 1em;
+}
